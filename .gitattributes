@@ -1,0 +1,6 @@
+*.zip binary
+*.png binary
+*.qgz binary
+*.gpkg binary
+*.md text eol=lf
+*.txt text eol=lf

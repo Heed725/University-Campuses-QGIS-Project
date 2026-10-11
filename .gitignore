@@ -1,0 +1,7 @@
+*.qgz~
+*.qgs~
+*.gpkg-wal
+*.gpkg-shm
+__pycache__/
+.DS_Store
+Thumbs.db
